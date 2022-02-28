@@ -1,14 +1,11 @@
-@font-face {
-  font-family: "Generica";
-  src: url("/diamondhands/font/Generica.otf") format("otf");
-}
-
 .Kiona {
   font-family: "Kiona";
 }
-.Generica {
-  font-family: "Generica", sans-serif;
-}
+
 .Quicksand {
   font-family: "Quicksand";
+}
+
+.Rajdhani {
+  font-family: "Rajdhani", sans-serif;
 }
